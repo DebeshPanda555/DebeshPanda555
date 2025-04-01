@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @DebeshPanda555
+- 👀 I’m interested in Web development, Generative AI, and cutting-edge technologies that make life easier and more advanced.
+- 🌱 I’m currently learning JavaScript, Django, Generative AI and diving deeper into Data Structures & Algorithms (DSA).
+- 💞️ I’m looking to collaborate on open-source projects or anything that involves web development, AI, or innovative tech.
+- 📫 How to reach me: www.linkedin.com/in/debesh-kumar-panda-4a299a273
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: : I’m a quick learner and can easily adapt to new technologies and build things from scratch with minimal guidance.
