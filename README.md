@@ -50,7 +50,7 @@
 
 # 👨‍💻 About Me
 
-I'm a pre-final year CS undergrad at VSSUT who spends most of my time thinking about two things: how money moves reliably through distributed systems, and how real-time state stays consistent when multiple users interact concurrently.
+I'm a final year B.Tech undergrad at VSSUT who spends most of my time thinking about two things: how money moves reliably through distributed systems, and how real-time state stays consistent when multiple users interact concurrently.
 
 Right now I'm deep in both — **PayFlow** is a full-stack digital wallet and payment system where I've had to solve real problems: idempotency under retries, transaction consistency across concurrent writes, and WebSocket sync that doesn't fall apart at load. **DoodleVerse** came from wanting to understand what it takes to build something collaborative at low latency — turned out Go was the right call there.
 
