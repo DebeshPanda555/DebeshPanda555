@@ -7,11 +7,18 @@
       "title": "PayFlow",
       "url": "https://github.com/DebeshPanda555/Payflow",
       "tagline": "Digital wallet and payment system: idempotent APIs, ACID transactions and real-time sync over WebSockets.",
-      "stack": ["TypeScript", "Node.js", "PostgreSQL", "WebSockets", "JWT"],
+      "stack": [
+        "TypeScript",
+        "Node.js",
+        "PostgreSQL",
+        "WebSockets",
+        "JWT"
+      ],
       "language": "TypeScript",
-      "stars": null,
-      "forks": null,
-      "fetch": true
+      "stars": 0,
+      "forks": 0,
+      "fetch": true,
+      "pushed_at": "2026-05-14T15:04:44Z"
     },
     {
       "owner": "DebeshPanda555",
@@ -19,7 +26,11 @@
       "title": "DoodleVerse",
       "url": null,
       "tagline": "Real-time collaborative canvas in Go: low-latency state sync, graceful reconnects and per-session rate limiting.",
-      "stack": ["Go", "WebSockets", "React"],
+      "stack": [
+        "Go",
+        "WebSockets",
+        "React"
+      ],
       "language": "Go",
       "stars": null,
       "forks": null,
@@ -31,11 +42,16 @@
       "title": "Smart Expense Tracker",
       "url": "https://github.com/DebeshPanda555/Smart-Expense-Tracker",
       "tagline": "Real-time budget tracking with income and expense categories, persistent storage and a clean dashboard.",
-      "stack": ["JavaScript", "Node.js", "MongoDB"],
+      "stack": [
+        "JavaScript",
+        "Node.js",
+        "MongoDB"
+      ],
       "language": "JavaScript",
-      "stars": null,
-      "forks": null,
-      "fetch": true
+      "stars": 0,
+      "forks": 0,
+      "fetch": true,
+      "pushed_at": "2025-04-04T13:37:11Z"
     }
   ]
 }
