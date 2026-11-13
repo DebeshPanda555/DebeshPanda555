@@ -1,0 +1,41 @@
+{
+  "_comment": "Curated text lives here. scripts/fetch_data.py refreshes only language, stars, forks and pushed_at (skipped when fetch is false).",
+  "repos": [
+    {
+      "owner": "DebeshPanda555",
+      "name": "Payflow",
+      "title": "PayFlow",
+      "url": "https://github.com/DebeshPanda555/Payflow",
+      "tagline": "Digital wallet and payment system: idempotent APIs, ACID transactions and real-time sync over WebSockets.",
+      "stack": ["TypeScript", "Node.js", "PostgreSQL", "WebSockets", "JWT"],
+      "language": "TypeScript",
+      "stars": null,
+      "forks": null,
+      "fetch": true
+    },
+    {
+      "owner": "DebeshPanda555",
+      "name": "DoodleVerse",
+      "title": "DoodleVerse",
+      "url": null,
+      "tagline": "Real-time collaborative canvas in Go: low-latency state sync, graceful reconnects and per-session rate limiting.",
+      "stack": ["Go", "WebSockets", "React"],
+      "language": "Go",
+      "stars": null,
+      "forks": null,
+      "fetch": false
+    },
+    {
+      "owner": "DebeshPanda555",
+      "name": "Smart-Expense-Tracker",
+      "title": "Smart Expense Tracker",
+      "url": "https://github.com/DebeshPanda555/Smart-Expense-Tracker",
+      "tagline": "Real-time budget tracking with income and expense categories, persistent storage and a clean dashboard.",
+      "stack": ["JavaScript", "Node.js", "MongoDB"],
+      "language": "JavaScript",
+      "stars": null,
+      "forks": null,
+      "fetch": true
+    }
+  ]
+}
